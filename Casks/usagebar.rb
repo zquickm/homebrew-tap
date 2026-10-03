@@ -1,6 +1,6 @@
 cask "usagebar" do
-  version "1.1.0"
-  sha256 "5f036fe4dfbb18e4802acd8f54261e550158655f25eed5d1dcd2a0506bcb7a25"
+  version "1.2.0"
+  sha256 "a13f62e265186073fe914e0b5e4889bd42c135ad0c1b8053db0bca5ecb4cc19c"
 
   url "https://github.com/zquickm/UsageBar/releases/download/v#{version}/UsageBar-v#{version}.zip"
   name "UsageBar"
