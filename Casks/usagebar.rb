@@ -8,7 +8,7 @@ cask "usagebar" do
   homepage "https://github.com/zquickm/UsageBar"
 
   livecheck do
-    url :latest
+    url :url
     strategy :github_latest
   end
 
